@@ -20,11 +20,6 @@
 
 ---
 
-## 👋 Start here
-
-If you just want to **see it working**, open [`tecno-voice-assistant-demo.html`](./tecno-voice-assistant-demo.html) in Chrome. No install, no setup. Type or say a command — in Hindi, Telugu, Tamil, or English — and watch it answer and switch a virtual light on and off. Want real AI answers? Paste a Gemini key into the box at the bottom of the page and you're live in under a minute. Full steps are in [Getting Started](#-getting-started).
-
----
 
 ## 📌 Table of Contents
 
