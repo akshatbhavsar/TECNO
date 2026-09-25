@@ -336,7 +336,7 @@ Target market spans **smart homes, healthcare, education and rural communities**
 
 ## 👨‍💻 The team
 
-**Team TecnoVoice** — B.Sc. IT (Cybersecurity), Ganpat University, Ahmedabad
+** Tecno** — M.Sc. IT (Cybersecurity), Ganpat University, Ahmedabad
 
 - Akshat Bhavsar
 - Heer Patel
